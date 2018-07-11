@@ -15,6 +15,6 @@ A secure password generator for iOS
 * [Web](http://dailywallpaperapp.com/)
 * [App Store](https://itunes.apple.com/app/id557949358)
 
-##### Screenshot
+##### Screenshots
 
 _(...)_
