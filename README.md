@@ -7,9 +7,9 @@ A secure password generator for iOS
 
 * Skyriser Media, 2011
 * Objective-C
-* ...
+* iPhone/iPad support
 
-**Note**: This project is for reference only and does not compile. Some image/sound assets and libraries were removed.
+**Note**: This project is for reference only and does not compile. Some image/sound/API assets and libraries were removed.
 
 
 ##### Links

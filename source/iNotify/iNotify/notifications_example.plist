@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2011/02/01</key>
+	<dict>
+		<key>Title</key>
+		<string>iNotify library now available</string>
+		<key>Message</key>
+		<string>You&apos;re looking at it right now!</string>
+	</dict>
+	<key>2011/01/22</key>
+	<dict>
+		<key>Title</key>
+		<string>iVersion library now available</string>
+		<key>Message</key>
+		<string>iVersion is a simple class that lets your app inform the user of new releases and allows you to promote specific new features.</string>
+		<key>ActionButton</key>
+		<string>Find Out More...</string>
+		<key>ActionURL</key>
+		<string>http://charcoaldesign.co.uk/source/cocoa#iversion</string>
+	</dict>
+	<key>2011/01/10</key>
+	<dict>
+		<key>Title</key>
+		<string>Rainbow Blocks on Mac App Store</string>
+		<key>Message</key>
+		<string>Rainbow Blocks, our popular game for the iPhone and iPad is now available on the Mac App Store.</string>
+		<key>ActionButton</key>
+		<string>Find Out More...</string>
+		<key>ActionURL</key>
+		<string>http://itunes.apple.com/us/app/rainbow-blocks/id412363063?mt=12</string>
+	</dict>
+</dict>
+</plist>

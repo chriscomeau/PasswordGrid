@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  passwordmatrix
+
+  Created by Chris Comeau on 11/27/11.
+  Copyright (c) 2011 Skyriser Media. All rights reserved.
+ 
+ http://www.raywenderlich.com/2876/how-to-localize-an-iphone-app-tutorial
+
+ "KEY" = "CONTENT";
+ 
+ So for our ‘Hello!’ text add in:
+ 
+ "TITLE" = "Hello!";
+ 
+ Now switch to iLikeItViewController.m, and find the viewDidLoad method. Right now it sets the text as:
+ 
+ self.titleLabel.text = @"Hello!";
+ 
+ We want it to instead read from our .strings file. To do that, change the current line to use a macro called NSLocalizedString as shown below:
+ 
+ self.titleLabel.text = NSLocalizedString(@"TITLE", nil);
+ 
+ */
+
+"<enter text to convert>" = "<enter text to convert>";
