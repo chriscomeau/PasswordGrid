@@ -17,4 +17,6 @@ A secure password generator for iOS
 
 ##### Screenshots
 
-_(...)_
+![screenshot 1](http://passwordgrid.com/images/passwordgrid1.jpg)
+![screenshot 2](http://passwordgrid.com/images/passwordgrid2.jpg)
+![screenshot 3](http://passwordgrid.com/images/passwordgrid3.jpg)
