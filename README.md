@@ -24,6 +24,8 @@ Part of [Chris Comeau](http://chriscomeau.com/)'s [Github portfolio](https://git
 ![screenshot 1](http://passwordgrid.com/images/passwordgrid1.jpg)
 ![screenshot 2](http://passwordgrid.com/images/passwordgrid2.jpg)
 ![screenshot 3](http://passwordgrid.com/images/passwordgrid3.jpg)
+
+
 ![screenshot 5](http://passwordgrid.com/images/passwordgrid5.jpg)
 ![screenshot 7](http://passwordgrid.com/images/passwordgrid7.jpg)
 ![screenshot 6](http://passwordgrid.com/images/passwordgrid6.jpg)
