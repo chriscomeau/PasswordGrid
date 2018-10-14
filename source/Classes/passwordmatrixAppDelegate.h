@@ -18,7 +18,7 @@
 //#import "FBConnect.h"
 #import "ConverViewController.h"
 #import "passwordmatrixIAPHelper.h"
-#import "ChimpKit.h"
+//#import "ChimpKit.h"
 #import <StoreKit/StoreKit.h>
 #import "HapticHelper.h"
 

@@ -14,8 +14,8 @@
 #import <SystemConfiguration/SCNetworkReachability.h>
 #import "Reachability.h"
 #import "SVProgressHUD.h"
-#import "ChimpKit.h"
-#import "SubscribeAlertView.h"
+//#import "ChimpKit.h"
+//#import "SubscribeAlertView.h"
 
 @implementation Helpers
 
@@ -277,6 +277,7 @@
 }
 */
 
+#if 0
 + (void)initMailChimp:(id)sender
 {
     //mailchimp
@@ -361,7 +362,7 @@
         
     });
 }
-
+#endif
 
 + (void)initGoogleAnalytics
 {

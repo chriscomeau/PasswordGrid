@@ -38,7 +38,7 @@
 
 #import <Crashlytics/Crashlytics.h>
 
-#import "SubscribeAlertView.h"
+//#import "SubscribeAlertView.h"
 #import "AFNetworking.h"
 //#import "QRTools.h"
 

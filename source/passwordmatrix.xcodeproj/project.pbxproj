@@ -45,13 +45,6 @@
 		833939E813BADBA400AED762 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 833939E713BADBA400AED762 /* SystemConfiguration.framework */; };
 		833939F113BADBD100AED762 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 833939F013BADBD100AED762 /* StoreKit.framework */; };
 		833A439415AB43080028EAFD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 833939E913BADBAA00AED762 /* UIKit.framework */; };
-		833B8506183D6DC0009A452C /* ChimpKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 833B84FE183D6DBF009A452C /* ChimpKit.h */; };
-		833B8507183D6DC0009A452C /* ChimpKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 833B84FF183D6DC0009A452C /* ChimpKit.m */; };
-		833B8508183D6DC0009A452C /* CKAuthViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 833B8500183D6DC0009A452C /* CKAuthViewController.h */; };
-		833B8509183D6DC0009A452C /* CKAuthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 833B8501183D6DC0009A452C /* CKAuthViewController.m */; };
-		833B850A183D6DC0009A452C /* SubscribeAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 833B8502183D6DC0009A452C /* SubscribeAlertView.h */; };
-		833B850B183D6DC0009A452C /* SubscribeAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 833B8503183D6DC0009A452C /* SubscribeAlertView.m */; };
-		833B850C183D6DC0009A452C /* CKAuthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 833B8505183D6DC0009A452C /* CKAuthViewController.xib */; };
 		833B852518428540009A452C /* button3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 833B852418428540009A452C /* button3@2x.png */; };
 		833B852718428896009A452C /* button3.png in Resources */ = {isa = PBXBuildFile; fileRef = 833B852618428896009A452C /* button3.png */; };
 		833B85351842E616009A452C /* 19-gear@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 833B85311842E616009A452C /* 19-gear@2x.png */; };
@@ -80,7 +73,6 @@
 		8360B357170B17DB006FFBF6 /* dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 8360B356170B17DB006FFBF6 /* dark.png */; };
 		83695F1115D0D0C100648432 /* Icon_ipad_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = 83695F0F15D0D0C100648432 /* Icon_ipad_retina.png */; };
 		83695F1215D0D0C100648432 /* Icon_ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 83695F1015D0D0C100648432 /* Icon_ipad.png */; };
-		836BFACA1586D04D00C2DFC8 /* coming_soon_wallpapersync.png in Resources */ = {isa = PBXBuildFile; fileRef = 836BFAC91586D04D00C2DFC8 /* coming_soon_wallpapersync.png */; };
 		836E53451AB4AEAB00A6408E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836E53441AB4AEAB00A6408E /* Images.xcassets */; };
 		836FE27C15B89E9E0056DCBF /* UncaughtExceptionHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 836FE27A15B89E9E0056DCBF /* UncaughtExceptionHandler.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		836FE27D15B89E9E0056DCBF /* UncaughtExceptionHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 836FE27B15B89E9E0056DCBF /* UncaughtExceptionHandler.h */; };
@@ -332,13 +324,6 @@
 		833939E713BADBA400AED762 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		833939E913BADBAA00AED762 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		833939F013BADBD100AED762 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
-		833B84FE183D6DBF009A452C /* ChimpKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChimpKit.h; sourceTree = "<group>"; };
-		833B84FF183D6DC0009A452C /* ChimpKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChimpKit.m; sourceTree = "<group>"; };
-		833B8500183D6DC0009A452C /* CKAuthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CKAuthViewController.h; sourceTree = "<group>"; };
-		833B8501183D6DC0009A452C /* CKAuthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CKAuthViewController.m; sourceTree = "<group>"; };
-		833B8502183D6DC0009A452C /* SubscribeAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubscribeAlertView.h; sourceTree = "<group>"; };
-		833B8503183D6DC0009A452C /* SubscribeAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubscribeAlertView.m; sourceTree = "<group>"; };
-		833B8505183D6DC0009A452C /* CKAuthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CKAuthViewController.xib; sourceTree = "<group>"; };
 		833B852418428540009A452C /* button3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "button3@2x.png"; path = "assets/button3@2x.png"; sourceTree = "<group>"; };
 		833B852618428896009A452C /* button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button3.png; path = assets/button3.png; sourceTree = "<group>"; };
 		833B85311842E616009A452C /* 19-gear@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "19-gear@2x.png"; sourceTree = "<group>"; };
@@ -369,7 +354,6 @@
 		8360B356170B17DB006FFBF6 /* dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dark.png; path = assets/dark.png; sourceTree = "<group>"; };
 		83695F0F15D0D0C100648432 /* Icon_ipad_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_ipad_retina.png; sourceTree = "<group>"; };
 		83695F1015D0D0C100648432 /* Icon_ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_ipad.png; sourceTree = "<group>"; };
-		836BFAC91586D04D00C2DFC8 /* coming_soon_wallpapersync.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coming_soon_wallpapersync.png; sourceTree = "<group>"; };
 		836E53441AB4AEAB00A6408E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = passwordmatrix/Images.xcassets; sourceTree = "<group>"; };
 		836FE27A15B89E9E0056DCBF /* UncaughtExceptionHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UncaughtExceptionHandler.m; sourceTree = "<group>"; };
 		836FE27B15B89E9E0056DCBF /* UncaughtExceptionHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UncaughtExceptionHandler.h; sourceTree = "<group>"; };
@@ -453,7 +437,6 @@
 		83C32ABD21557A1200A2E9F6 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
 		83C32ABF21557A1300A2E9F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83C32AC121557A1300A2E9F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		83C32ACD21557DA500A2E9F6 /* passwordmatrix_watch.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = passwordmatrix_watch.entitlements; sourceTree = "<group>"; };
 		83C32ACE21557DBE00A2E9F6 /* passwordmatrix_watch Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "passwordmatrix_watch Extension.entitlements"; sourceTree = "<group>"; };
 		83C39DCA169B2F4C00A81DFC /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Crashlytics.framework; sourceTree = "<group>"; };
 		83C39DCC169B30BF00A81DFC /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
@@ -477,7 +460,6 @@
 		83EC66AB215D78AE007F04C0 /* lisuKeyboardLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lisuKeyboardLayout.swift; sourceTree = "<group>"; };
 		83EC66AC215D78AF007F04C0 /* keyButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = keyButton.swift; sourceTree = "<group>"; };
 		83EC66AD215D78B0007F04C0 /* keyBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = keyBoard.swift; sourceTree = "<group>"; };
-		83EC66B3215D7A5C007F04C0 /* passwordgrid_keyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = passwordgrid_keyboard.entitlements; sourceTree = "<group>"; };
 		83EC66B4215E83EF007F04C0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		83EFB6DD15AD3B7600090AA6 /* century_gothic.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = century_gothic.TTF; path = Fonts/century_gothic.TTF; sourceTree = "<group>"; };
 		83EFB6DF15AD45BF00090AA6 /* gothicb.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = gothicb.ttf; path = Fonts/gothicb.ttf; sourceTree = "<group>"; };
@@ -506,7 +488,6 @@
 		83F5A203215438A30066A88F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		83F5A205215438A30066A88F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83F5A20C21543D4F0066A88F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		83F5A20F215442880066A88F /* passwordmatrix_today.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = passwordmatrix_today.entitlements; sourceTree = "<group>"; };
 		83FCF43B1290E26C00F88416 /* facebook_like2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook_like2.png; sourceTree = "<group>"; };
 		83FCF43D1290E32500F88416 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* passwordmatrix-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "passwordmatrix-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
@@ -740,45 +721,6 @@
 			name = "iPhone Retina";
 			sourceTree = "<group>";
 		};
-		833B84FB183D6DB3009A452C /* ChimpKit */ = {
-			isa = PBXGroup;
-			children = (
-				833B84FC183D6DBF009A452C /* Core */,
-			);
-			name = ChimpKit;
-			sourceTree = "<group>";
-		};
-		833B84FC183D6DBF009A452C /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				833B84FD183D6DBF009A452C /* Classes */,
-				833B8504183D6DC0009A452C /* Nibs */,
-			);
-			name = Core;
-			path = ChimpKit2/Core;
-			sourceTree = "<group>";
-		};
-		833B84FD183D6DBF009A452C /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				833B84FE183D6DBF009A452C /* ChimpKit.h */,
-				833B84FF183D6DC0009A452C /* ChimpKit.m */,
-				833B8500183D6DC0009A452C /* CKAuthViewController.h */,
-				833B8501183D6DC0009A452C /* CKAuthViewController.m */,
-				833B8502183D6DC0009A452C /* SubscribeAlertView.h */,
-				833B8503183D6DC0009A452C /* SubscribeAlertView.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		833B8504183D6DC0009A452C /* Nibs */ = {
-			isa = PBXGroup;
-			children = (
-				833B8505183D6DC0009A452C /* CKAuthViewController.xib */,
-			);
-			path = Nibs;
-			sourceTree = "<group>";
-		};
 		833B85281842E32D009A452C /* tab */ = {
 			isa = PBXGroup;
 			children = (
@@ -897,7 +839,6 @@
 				83B825EF170A2A61008C8B6F /* welcome */,
 				839B6E4D14B6C63D0070AC5D /* qr_passgrid_app2.png */,
 				83AAC54A148EF49700C4FC49 /* 59-flag.png */,
-				836BFAC91586D04D00C2DFC8 /* coming_soon_wallpapersync.png */,
 				83E6386913E7441100634F19 /* star.png */,
 				83F37BD317F2176A00337EFC /* star@2x.png */,
 				83FCF43D1290E32500F88416 /* twitter.png */,
@@ -945,7 +886,6 @@
 		83C32AA921557A0F00A2E9F6 /* passwordmatrix_watch */ = {
 			isa = PBXGroup;
 			children = (
-				83C32ACD21557DA500A2E9F6 /* passwordmatrix_watch.entitlements */,
 				83C32AAA21557A0F00A2E9F6 /* Interface.storyboard */,
 				83C32AAD21557A1100A2E9F6 /* Assets.xcassets */,
 				83C32AAF21557A1100A2E9F6 /* Info.plist */,
@@ -984,7 +924,6 @@
 			isa = PBXGroup;
 			children = (
 				8377B11A187EF7E5000A6EDF /* UIView+MWParallax */,
-				833B84FB183D6DB3009A452C /* ChimpKit */,
 				830ED1531445BBC400656846 /* libz.dylib */,
 				8327D29816597985007FDB38 /* libsqlite3.dylib */,
 			);
@@ -1005,7 +944,6 @@
 		83EC66A0215D73F3007F04C0 /* passwordgrid_keyboard */ = {
 			isa = PBXGroup;
 			children = (
-				83EC66B3215D7A5C007F04C0 /* passwordgrid_keyboard.entitlements */,
 				83EC66A1215D73F3007F04C0 /* KeyboardViewController.swift */,
 				83EC66AA215D78AE007F04C0 /* Key.swift */,
 				83EC66AD215D78B0007F04C0 /* keyBoard.swift */,
@@ -1043,7 +981,6 @@
 		83F5A1FF215438A30066A88F /* passwordmatrix_today */ = {
 			isa = PBXGroup;
 			children = (
-				83F5A20F215442880066A88F /* passwordmatrix_today.entitlements */,
 				83F5A200215438A30066A88F /* TodayViewController.swift */,
 				83F5A202215438A30066A88F /* MainInterface.storyboard */,
 				83F5A20C21543D4F0066A88F /* Images.xcassets */,
@@ -1064,7 +1001,6 @@
 				837B8ADE183597F3004A5EBF /* Config.h in Headers */,
 				83339916148FDA4900A450D9 /* QRViewController.h in Headers */,
 				83DA64F214BB263A00DCBD21 /* MyApplication.h in Headers */,
-				833B8508183D6DC0009A452C /* CKAuthViewController.h in Headers */,
 				836FE27D15B89E9E0056DCBF /* UncaughtExceptionHandler.h in Headers */,
 				834384CB160BB081000AACD8 /* CustomUITabBarController.h in Headers */,
 				837B8AEA1835A05C004A5EBF /* SoundEffect.h in Headers */,
@@ -1072,14 +1008,12 @@
 				8318F5191667B9580075B0FF /* UIImage+ImageFromDiskNamed.h in Headers */,
 				83B825F2170A2A8D008C8B6F /* MHPagingScrollView.h in Headers */,
 				8377B11D187EF7E5000A6EDF /* UIView+MWParallax.h in Headers */,
-				833B850A183D6DC0009A452C /* SubscribeAlertView.h in Headers */,
 				837B8AE2183598DC004A5EBF /* NSString+Utilities.h in Headers */,
 				837B8ADB1835976C004A5EBF /* Helpers.h in Headers */,
 				83B825F9170A2A9E008C8B6F /* WelcomePageView.h in Headers */,
 				83B825FC170A2A9E008C8B6F /* WelcomeViewController.h in Headers */,
 				8330E34C172AC88A000ABDD4 /* IAPHelper.h in Headers */,
 				8330E34E172AC88A000ABDD4 /* passwordmatrixIAPHelper.h in Headers */,
-				833B8506183D6DC0009A452C /* ChimpKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1288,7 +1222,6 @@
 				8335FF6B112A2D3200C6ED1F /* logo_horiz.png in Resources */,
 				833502AB112A6FF900C6ED1F /* skyriser.png in Resources */,
 				833502F1112A7C8000C6ED1F /* icon_information.png in Resources */,
-				833B850C183D6DC0009A452C /* CKAuthViewController.xib in Resources */,
 				836E53451AB4AEAB00A6408E /* Images.xcassets in Resources */,
 				833B853E1843702B009A452C /* settings 11.png in Resources */,
 				833505F3112D0D8500C6ED1F /* help.png in Resources */,
@@ -1334,7 +1267,6 @@
 				833B854718438395009A452C /* arrow 20.png in Resources */,
 				83F1C64A153CC22D00163C56 /* KeyView~iphone.xib in Resources */,
 				83F37BD217F1FC1000337EFC /* background-green-iphone@2x.png in Resources */,
-				836BFACA1586D04D00C2DFC8 /* coming_soon_wallpapersync.png in Resources */,
 				83EFB6DE15AD3B7600090AA6 /* century_gothic.TTF in Resources */,
 				83EFB6E015AD45BF00090AA6 /* gothicb.ttf in Resources */,
 				83A004FF15CAD42D006EB93E /* MoreView~ipad.xib in Resources */,
@@ -1526,11 +1458,9 @@
 				8335FF201125D91100C6ED1F /* AboutViewController.m in Sources */,
 				837B8AE3183598DC004A5EBF /* NSString+Utilities.m in Sources */,
 				8335FF251125D91B00C6ED1F /* ConverViewController.m in Sources */,
-				833B8507183D6DC0009A452C /* ChimpKit.m in Sources */,
 				8335FF2A1125D92400C6ED1F /* OptionsViewController.m in Sources */,
 				83892223113C939B00AE44ED /* KeyViewController.m in Sources */,
 				83339917148FDA4900A450D9 /* QRViewController.m in Sources */,
-				833B850B183D6DC0009A452C /* SubscribeAlertView.m in Sources */,
 				8377B11E187EF7E5000A6EDF /* UIView+MWParallax.m in Sources */,
 				83DA64F314BB263A00DCBD21 /* MyApplication.m in Sources */,
 				836FE27C15B89E9E0056DCBF /* UncaughtExceptionHandler.m in Sources */,
@@ -1538,7 +1468,6 @@
 				834384CC160BB081000AACD8 /* CustomUITabBarController.m in Sources */,
 				831460CF16553E3000863549 /* UIAlertView+Errors.m in Sources */,
 				8318F51A1667B9580075B0FF /* UIImage+ImageFromDiskNamed.m in Sources */,
-				833B8509183D6DC0009A452C /* CKAuthViewController.m in Sources */,
 				83B825F3170A2A8D008C8B6F /* MHPagingScrollView.m in Sources */,
 				83B825FA170A2A9E008C8B6F /* WelcomePageView.m in Sources */,
 				83B825FD170A2A9E008C8B6F /* WelcomeViewController.m in Sources */,
