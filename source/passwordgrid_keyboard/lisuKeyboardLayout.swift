@@ -95,7 +95,7 @@ func lisuKeyboardLayout(controller: UIInputViewController, totalWidth: CGFloat, 
     //images
     let image = UIImage(named: "logo")
     let imageView = UIImageView(image: image!)
-    imageView.contentMode = UIViewContentMode.scaleAspectFit
+    imageView.contentMode = UIView.ContentMode.scaleAspectFit
 
     topBar.addSubview(imageView)
     imageView.heightAnchor.constraint(equalToConstant: 18).isActive = true

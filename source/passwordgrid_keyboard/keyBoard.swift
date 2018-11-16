@@ -64,7 +64,7 @@ class Keyboard {
     var switchView : UISwitch = UISwitch()
     
     func setupTargets() {
-        self.switchView.addTarget(self, action: #selector(switchChanged(_:)), for: UIControlEvents.valueChanged)
+        self.switchView.addTarget(self, action: #selector(switchChanged(_:)), for: UIControl.Event.valueChanged)
 //        self.gearButton.addTarget(self, action: #selector(buttonClicked(_:)), for: .touchUpInside)
     }
     
