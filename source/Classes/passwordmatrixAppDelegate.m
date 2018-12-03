@@ -260,7 +260,7 @@ SystemSoundID audioEffect;
 #if USE_TESTFLIGHT
     if([self isTestflight])
 	{
-        [TestFlight takeOff:@"5f739715c368bcf9a9989145717457cc_MTMwMzk3MjAxMi0wOS0xMCAwOTo1MDoxNy40NDIzNDc"];
+        [TestFlight takeOff:@"???"];
     }
 #endif
     
